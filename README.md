@@ -12,3 +12,7 @@ This repository is based upon @brucehoult's `prime` application, which is descri
 // exception for Elbrus, only because the difference is so dramatic. It is generally not
 // for other CPUs.
 ```
+
+|Time (seconds) | System | Architecture | Processor @ Speed | Size (bytes) |
+|----|----|----|---|---
+| 18.950 | HiFive Unmatched | `riscv64` | SiFive U74 @ 1.5 GHz | 236 |
