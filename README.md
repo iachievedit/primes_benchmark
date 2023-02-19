@@ -15,4 +15,4 @@ This repository is based upon [@brucehoult's](https://github.com/brucehoult) `pr
 
 |Time (seconds) | System | Architecture | Processor @ Speed | Size (bytes) |
 |----|----|----|---|---
-| 18.950 | HiFive Unmatched | `riscv64` | SiFive U74 @ 1.5 GHz | 236 |
+| 18.950 | [HiFive Unmatched](https://www.sifive.com/boards/hifive-unmatched) | `riscv64` | SiFive U74 @ 1.5 GHz | 236 |
