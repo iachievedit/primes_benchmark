@@ -1,7 +1,7 @@
 # primes_benchmark
 Finding Primes for Benchmarks
 
-This repository is based upon @brucehoult's `prime` application, which is described best by him:
+This repository is based upon [@brucehoult's](https://github.com/brucehoult) `prime` application, which is described best by him:
 
 ```
 // Program to count primes. I wanted something that could run in 16 KB but took enough
