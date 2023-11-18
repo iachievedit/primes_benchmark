@@ -17,9 +17,11 @@ This repository is based upon [@brucehoult's](https://github.com/brucehoult) `pr
 
 |Time (seconds) | System | Architecture | Processor @ Speed | Size (bytes) |
 |----|----|----|---|---
-| 2.458 | Apple Macbook Pro M3 Max | `arm64` | Apple Silicon M3 | 260 |
+| 2.458 | Apple Macbook Pro M3 Max | `arm64` | Apple Silicon M3 @ 4 GHz | 260 |
 | 2.957 | Apple Macbook Pro M1 | `arm64` | Apple Silicon M1 @ 3.2 GHz | 264 |
+| 9.498 | [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) | `armv7l` | Broadcom BCM2711 @ 2 GHz | 300 |
 | 14.623 | [BeagleBoard X15](https://beagleboard.org/x15) | `armv7l` |  TI Sitara AM5728 @ 1.5GHz | 228 |
+| 15.092 | [Pine64 Star64](https://wiki.pine64.org/wiki/STAR64) | `riscv64` | SiFive U74 @ 1.5GHz | 236 |
 | 15.134 | [StarFive VisionFive 2](https://www.starfivetech.com/en/site/boards) | `riscv64` | SiFive U74 @ 1.5 GHz | 216 |
 | 18.950 | [HiFive Unmatched](https://www.sifive.com/boards/hifive-unmatched) | `riscv64` | SiFive U74 @ 1.5 GHz | 236 |
 | 22.638 | [StarFive VisionFive](https://www.starfivetech.com/en/site/boards) | `riscv64` | SiFive U74 @ 1 GHz| 208 |
