@@ -28,5 +28,6 @@ This repository is based upon [@brucehoult's](https://github.com/brucehoult) `pr
 | 23.337 | Raspberry Pi 3 | `aarch64` | Broadcom @ ? | 256 |
 | 23.925 | [BeaglePlay](https://beagleboard.org/play) | `aarch64` |TI Sitara AM625 @ 1.4 GHz|  256 |
 | 37.130 | Sipeed RV Dock | `riscv64` | Allwinner D1 (XuanTie C906) @ 1.0 GHz | 236 |
+| 77.672 | Raspberry Pi 1 | `armv6l` | BCM2835 @ 250 MHz | 268 |
 
 
