@@ -18,6 +18,7 @@ This repository is based upon [@brucehoult's](https://github.com/brucehoult) `pr
 |Time (seconds) | System | Architecture | Processor @ Speed | Size (bytes) |
 |----|----|----|---|---
 | 2.458 | Apple Macbook Pro M3 Max | `arm64` | Apple Silicon M3 @ 4 GHz | 260 |
+| 2.517 | Dell Latitude 3440 | `x86_64` | Intel i5-1335U @ 1.30 GHz | 246 |
 | 2.957 | Apple Macbook Pro M1 | `arm64` | Apple Silicon M1 @ 3.2 GHz | 264 |
 | 6.911 | [Raspberry Pi 5 Model B Rev 1.0]() | `aarch64` | Broadcom BCM2712 @ 2.4 GHz | 268 |
 | 9.498 | [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) | `armv7l` | Broadcom BCM2711 @ 2 GHz | 300 |
